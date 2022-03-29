@@ -10,5 +10,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Creating+websites,+telegram+bots,+mobile+apps)](https://git.io/typing-svg)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=progerg&theme=radical)](https://git.io/streak-stats)
 
